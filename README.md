@@ -2,6 +2,7 @@
 Sparse and Delyaed Reward Variant
 This project implements the reinforcment learning agent and also evaluates the reinforcement learning agent in the Chef's Hat Environment
 This project is assigned for Sparse/Delayted Reward, below shows the results and demonstrates the Reinforcement Learning Agent capability in the game.
+The RL algorithm Generalised Advantage Estimation (GAE) is implemented as the credit assignment strategy in the Actor Crtic Agent.
 # How to run the code
 To run the code;
 . Install the Libraries
